@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\releases",
+    "\\src",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\com",
+    "\\src\\test\\java\\com\\azhu",
+    "\\src\\test\\java\\com\\azhu\\main"
+  ],
+  "SelectedNode": "\\releases\\PaperCheck-1.0-SNAPSHOT-jar-with-dependencies.jar",
+  "PreviewInSolutionExplorer": false
+}
